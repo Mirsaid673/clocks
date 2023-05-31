@@ -1,0 +1,15 @@
+# ninja log v5
+4836	5187	1685500495920308772	out	3f30dfb36845f755
+41	4836	1685500495570310464	CMakeFiles/out.dir/application.cpp.o	4376015d6b53e16a
+391	5329	1685499909933324808	CMakeFiles/out.dir/main.cpp.o	c83ab098cafee80b
+5	39	1685500490775333730	/home/neron/Projects/Qt/build/out_autogen/mocs_compilation.cpp	44842d71ce6cbbb7
+390	5308	1685499909912325102	CMakeFiles/out.dir/out_autogen/mocs_compilation.cpp.o	a0162f60026c9050
+5	39	1685500490775333730	out_autogen/mocs_compilation.cpp	44842d71ce6cbbb7
+5	39	1685500490775333730	/home/neron/Projects/Qt/build/out_autogen/timestamp	44842d71ce6cbbb7
+5	39	1685500490775333730	out_autogen/timestamp	44842d71ce6cbbb7
+4	37	1685500560173015048	out_autogen/timestamp	44842d71ce6cbbb7
+4	37	1685500560173015048	out_autogen/mocs_compilation.cpp	44842d71ce6cbbb7
+4	37	1685500560173015048	/home/neron/Projects/Qt/build/out_autogen/timestamp	44842d71ce6cbbb7
+4	37	1685500560173015048	/home/neron/Projects/Qt/build/out_autogen/mocs_compilation.cpp	44842d71ce6cbbb7
+41	4729	1685500564862994849	CMakeFiles/out.dir/application.cpp.o	4376015d6b53e16a
+4729	5075	1685500565206993373	out	3f30dfb36845f755
